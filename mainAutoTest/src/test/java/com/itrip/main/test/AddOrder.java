@@ -92,6 +92,7 @@ public class AddOrder/* extends AbstractTestNGSpringContextTests */ {
         }
         // 关闭浏览器
         driver.close();
+        System.out.println("打印一下");
 
     }
 
